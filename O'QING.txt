@@ -1,0 +1,30 @@
+MaoMao — ish stolidagi dorixonachi yordamchi
+============================================
+
+Muxlislar tomonidan yaratilgan kichkina MaoMao ("The Apothecary Diaries"): taskbar va
+oynalar ustida yuradi, o't yig'adi, dori tayyorlaydi, kitob o'qiydi, zahar tatib ko'radi,
+uxlaydi, vazifalaringizni yozib eslatadi, tanaffus qilishni aytadi va siz bilan gaplashadi.
+
+QANDAY ISHGA TUSHIRILADI
+1. Papkani istalgan joyga chiqaring (masalan, Documents\MaoMao).
+2. MaoMao.exe ni ikki marta bosing.
+   Windows "Windows protected your PC" deb ogohlantirishi mumkin (dastur imzolanmagan) —
+   "More info" -> "Run anyway" ni bosing.
+3. Ochilgan oynada TEKIN Google Gemini kalitini ulang (aistudio.google.com/apikey ->
+   "Create API key" -> nusxalab joylang). Keyinroq ham bo'ladi: o'ng tugma -> Sozlamalar.
+
+BOSHQARISH
+- MaoMao'ni bosish — gaplashish
+- Sudrash — ko'tarib olish
+- O'ng tugma — menyu: vazifalar, sozlamalar, uxlatish, yashirish, chiqish
+- Ish stolidagi yorliq yoki Ctrl+Alt+M — yoqish/o'chirish
+
+Til Windows tiliga qarab tanlanadi; Sozlamalar -> Umumiy -> Til orqali o'zgartirsa bo'ladi.
+
+MAXFIYLIK
+Suhbatlar, vazifalar va sozlamalar faqat sizning kompyuteringizda (%APPDATA%\MaoMao).
+Xabarlar faqat siz tanlagan AI xizmatiga yuboriladi. Kalitlar Windows DPAPI bilan shifrlanadi.
+
+OGOHLANTIRISH
+Muxlislar ijodi, bepul; "The Apothecary Diaries" mualliflari bilan bog'liq emas.
+Sog'liq bo'yicha maslahatlar umumiy ma'lumot — shifokor o'rnini bosmaydi.
